@@ -1,13 +1,8 @@
 #!/usr/bin/python3
 
 """
-Simple HTTP Server version 2: reuses the port, so it can be
-restarted right after it has been killed. Accepts connects from
-the outside world, by binding to the primary interface of the host.
-
-Jesus M. Gonzalez-Barahona and Gregorio Robles
-{jgb, grex} @ gsyc.es
-TSAI, SAT and SARO subjects (Universidad Rey Juan Carlos)
+Miguel Ángel Lozano Montero.
+Programa que construye una aplicación web que suma en dos fases.
 """
 
 import socket
